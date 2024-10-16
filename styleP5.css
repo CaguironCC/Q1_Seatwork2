@@ -1,0 +1,29 @@
+.container1 {
+	background-color: #002352;
+	color: #a3d6e0;
+}
+
+.form1{
+	background-color:#ffffff;
+	color: #063970;
+	width: 400px;
+	box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.8);
+	margin: auto;
+	padding: 15px;
+	border-radius: 10px;
+}
+
+#submit{
+	background-color:#7572ba;
+	color: white;
+}
+label{
+	font-weight: bold;
+	font-style: italic;
+}
+
+body{
+	background-image: url(https://png.pngtree.com/background/20220715/original/pngtree-light-blue-background-picture-picture-image_1626628.jpg);
+	background-repeat:no repeat ;
+	background-size: cover ;
+}
